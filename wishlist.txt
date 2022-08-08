@@ -1,0 +1,2 @@
+dimwishlist:item=2284436222&perks=906128146,1747051996#notes:PVP
+dimwishlist:item=3336082853&perks=1938173835,18293965#notes:All-rounder
